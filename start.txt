@@ -1,2 +1,4 @@
 Comeco do arquivo.
 Estamos na branch master.
+
+Aqui foi adicionado o comentário para a branch-bacana.
