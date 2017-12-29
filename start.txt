@@ -2,3 +2,5 @@ Comeco do arquivo.
 Estamos na branch master.
 
 Aqui foi adicionado o comentário para a branch-bacana.
+
+Aqui eu mudei no branch local.
