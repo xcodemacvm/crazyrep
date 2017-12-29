@@ -1,2 +1,4 @@
 Comeco do arquivo.
 Estamos na branch master.
+
+Agora estamos na branch branch-maneiro.
